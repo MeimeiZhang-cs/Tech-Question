@@ -1,1 +1,11 @@
+05What is the inversion of control/Dependency Injection in Spring?
 
+06What are Spring Bean & scopes? 
+
+07 How do you provide configuration metadata to the Spring Container?
+
+08Differentiate @Component, @Repository, @Service and @Controller
+
+09What is @Autowire? 
+
+10How do we use the Spring framework in our project? 

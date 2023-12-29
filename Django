@@ -20,3 +20,16 @@ Django 的主要目的是简化数据库驱动的网站的开发过程。它强�
 
 Django 适合开发快速、安全且易于维护的网站和Web应用程序。
 它被许多知名公司和组织用于开发他们的网站，如Instagram、Pinterest、Mozilla、The Washington Times 等。
+
+
+Key takeaways of the Django framework
+Appearing in 2005, Django is a framework of the Python computer language.
+It is suitable for the development of high-performing web applications.
+Django framework is named after the famous jazz guitarist Django Reinhardt.
+It is open-source and has huge community patronage that extensively updates the framework through code snippets and plug-ins.
+Django is scalable, and a great choice for large-scale applications.
+It is reliable in terms of security, and extremely easy to learn and eventually use.
+Django is multi-purpose with additional features such as content management, site maps, and user authentication.
+It provides multi-OS support and has MVC architecture with an automatically generated admin panel.
+Holding a great position in web application development frameworks, Django will continue to remain a popular choice with developers.
+Django powers big applications like YouTube, Dropbox, Instagram, Mozilla, Pinterest, Spotify, Clubhouse, and Venmo.
